@@ -5,10 +5,10 @@ This is Cavalier
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Мій безкоштовний сайт</title>
+    <title>Це наш сайт </title>
 </head>
 <body>
-    <h1>Вітаю на моєму сайті!</h1>
-    <p>Це односторінковий безкоштовний сайт.</p>
+    <h1>Вітаємо на нашому сайті!</h1>
+    <p>будемо взячні за відгук</p>
 </body>
 </html>
